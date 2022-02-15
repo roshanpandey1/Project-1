@@ -1,0 +1,3 @@
+o change locally for just one repository, enter in terminal, from within the repository
+
+git config credential.username "new_username"
